@@ -1,1 +1,3 @@
-# Asm-Boot
+# Nasm Boot
+## Usage
+make
